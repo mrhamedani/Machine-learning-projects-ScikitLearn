@@ -1,5 +1,5 @@
 # Machine-learning-projects-ScikitLearn
-(These practice projects were developed using Kaggle notebooks)
+
 
 **1. prodict house prices_LinearRegression:** prediction using square footage and bedrooms and bathrooms, evaluation with std
 
