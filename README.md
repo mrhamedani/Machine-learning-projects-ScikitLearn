@@ -21,3 +21,4 @@ In this code for Breast Cancer Dataset , we run the SVM model with two different
 - SVM with cross_validate & GridSearchCV methods
 - K-fold for train & test
 - best hayperparameters
+- We have three parts of data: validation, training and testing
