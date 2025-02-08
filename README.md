@@ -28,3 +28,9 @@ We use the dataset prepared by scikit_learn about vegetation (covtype) and becau
 - Principal Component Analysis - PCA
 - The most important features using covariance
 - The most important features using variance
+
+**6.RecommenderSystem-KNN-movies**
+Using the K-Nearest Neighbors (KNN) model, we are going to build a Recommender System. In this dataset, various movies are categorized by genre. New items:
+- KNN model and using different K
+- Recommender System Structure
+- preprocessing
