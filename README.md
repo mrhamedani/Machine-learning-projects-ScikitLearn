@@ -22,3 +22,9 @@ In this code for Breast Cancer Dataset , we run the SVM model with two different
 - K-fold for train & test
 - best hayperparameters
 - We have three parts of data: validation, training and testing
+
+**5_Dimensionality_reduction**
+We use the dataset prepared by scikit_learn about vegetation (covtype) and because the number of columns or features is large, we can use the techniques of reducing their dimensions:
+- Principal Component Analysis - PCA
+- The most important features using covariance
+- The most important features using variance
