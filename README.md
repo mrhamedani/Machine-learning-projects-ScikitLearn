@@ -34,3 +34,9 @@ Using the K-Nearest Neighbors (KNN) model, we are going to build a Recommender S
 - KNN model and using different K
 - Recommender System Structure
 - preprocessing
+
+**7.Clustering**
+Clustering is similar to classification, but the target or label is not clear.In this code, we examine two common methods for clustering.We also review some common techniques. New items:
+- Clustering models ---> K-Means  & DBSCAN (Density-Based Spatial Clustering of Applications with Noise)
+- Clustering methods ---> WCSS (Within-Cluster Sum of Squares) & Silhouette 
+- make_blobs (for random data)
